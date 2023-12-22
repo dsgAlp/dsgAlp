@@ -2,7 +2,7 @@
 - 👀 I’m interested in Data Analyst
 - 🌱 I’m currently learning C# and .NetFrameWork
 - 💞️ I’m looking to collaborate on my work
-- 📫 How to reach me ...
+- 📫 How to reach me via my e-mail designeralpin@gmail.com
 
 <!---
 dsgAlp/dsgAlp is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
